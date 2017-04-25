@@ -1,6 +1,6 @@
-# Lebenslauf#
+# Lebenslauf #
 
-###Allgemeine Daten
+### Allgemeine Daten
 
 **Name:** Frank
 
@@ -15,6 +15,6 @@
 
 ### Schulbildung
 
-**Grundschule**:1911-
+**Grundschule**:1911-1913
 
 **Hauptschule**:1913-1916
