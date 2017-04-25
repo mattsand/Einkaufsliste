@@ -12,5 +12,7 @@
 
 
 ##Schulbildung
-**Grundschule**:1911-1913
+
+**Grundschule**:1911-
+
 **Hauptschule**:1913-1916
