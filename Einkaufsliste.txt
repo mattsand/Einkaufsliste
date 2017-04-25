@@ -2,3 +2,8 @@ Liste:
 +Apfel
 +Fleisch
 +Wasser
++Gurken
++Karotten
++Bananen
++Sandalen
++Haarwachs
