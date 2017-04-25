@@ -2,6 +2,8 @@
 
 ### Allgemeine Daten
 
+![Bild von mir](https://github.com/mattsand/Einkaufsliste/blob/Bernd-Zweig/Markus_Frank.JPG "Markus Frank")
+
 **Name:** Frank
 
 **Vorname:** Markus
